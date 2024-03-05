@@ -36,7 +36,7 @@ I'm Belhocine Abdelkader (Blh Aek), a passionate frontend developer from Algeria
 - 📧 Email: [mr.belhocine.abdelkader@gmail.com]
 - Twitter - [@BelhocineAek](https://twitter.com/BelhocineAek)
 - linkedin - [@belhocine-abdelkader](https://www.linkedin.com/in/belhocine-abdelkader-238653263/)
-- Facebook - [@belhocine-abdelkader](https://www.linkedin.com/in/belhocine-abdelkader-238653263/)
+- Facebook - [@belhocine-abdelkader](https://web.facebook.com/BLH.Ake)
 - Frontend Mentor - [@belhocineAbdelkader](https://www.frontendmentor.io/profile/belhocineAbdelkader)
 
 Feel free to explore my repositories and don't hesitate to connect! Let's code something amazing together. 🚀
